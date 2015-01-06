@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">CS_reversi</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message">edit_message</string>
+    <string name="button_send">button_send</string>
+    <string name="title_activity_difficulty">Difficulty</string>
+    <string name="welcome_to_reversi">Welcome to Reversi</string>
+    <string name="start">Start</string>
+    <string name="choose_a_difficulty">Choose a difficulty</string>
+    <string name="medium">Medium</string>
+    <string name="easy">Easy</string>
+    <string name="hard">Hard</string>
+    <string name="title_activity_gameboard">Gameboard</string>
+    <string name="title_activity_highscores">Highscores</string>
+    <string name="quit">Quit</string>
+    <string name="a1">a1</string>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <string name="game_over_">Game Over!</string>
+    <string name="highscores">Highscores</string>
+    <string name="reversilogo">reversilogo</string>
+    <string name="score1">1. 0 0</string>
+    <string name="score2">2. 0 0</string>
+    <string name="score3">3. 0 0</string>
+    <string name="score4">4. 0 0</string>
+    <string name="score5">5. 0 0</string>
+
+
+</resources>

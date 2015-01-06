@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <integer name="blackscore1">0</integer>
+    <integer name="blackscore2">0</integer>
+    <integer name="blackscore3">0</integer>
+    <integer name="blackscore4">0</integer>
+    <integer name="blackscore5">0</integer>
+    
+    <integer name="whitescore1">0</integer>
+    <integer name="whitescore2">0</integer>
+    <integer name="whitescore3">0</integer>
+    <integer name="whitescore4">0</integer>
+    <integer name="whitescore5">0</integer>
+
+</resources>
